@@ -1,9 +1,10 @@
 # ReadMeForOtusProject
-Проект для детей Mathematics.
+Проект для детей Mathematics.<br />
 Приложение выдает рандомные примеры в выбранном пользователем диапазоне. Операции также выбираются: сложение/вычитание или умножение. Пользователь решает пример и записывает ответ, в зависимости от правильности ответа приложение выдает результат и статистику, а также отправляет результат на сервер. В приложении будет реализована возможность посмотреть статистику и не правильные ответы с сервера.
-Экраны-Фрагменты: выбор операции, выбор диапазона, основной экран, экран статистики.
-MVVM
-RecyclerView
-Kotlin Coroutines
-Retrofit
-Kotlin Serialization
+Экраны-Фрагменты: выбор операции, выбор диапазона, основной экран, экран статистики.<br />
+MVVM<br />
+RecyclerView<br />
+Kotlin Coroutines<br />
+Retrofit<br />
+Kotlin Serialization<br />
+![screenshot](Screenshot_20250218_112709mathematic.png)![screenshot](Screenshot_20250218_112726mathematic.png)![screenshot](Screenshot_20250218_112422Mathematic.png)![screenshot](Screenshot_20250218_112612mathematic.png)
